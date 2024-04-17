@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Rutkevich</title>
+    <link>https://hugo-profile.netlify.app/</link>
+    <description>Recent content on David Rutkevich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Gallery</title>
+      <link>https://hugo-profile.netlify.app/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/gallery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
